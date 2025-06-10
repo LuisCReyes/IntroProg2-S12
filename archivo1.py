@@ -1,0 +1,1 @@
+mi_archivo = open ("C:\\Users\\lcrf_\\OneDrive\\Desktop\\UAM\\Introducción a la programación\\Repositorios de git\\IntroProg2-S12\\archivos txt\\datos.txt", "r")
